@@ -1,0 +1,22 @@
+enter your guess from 1 to 100:
+25
+Oops!Your Guess is lower.Try Again.
+enter your guess from 1 to 100:
+50
+Oops!Your Guess is higher.Try Again.
+enter your guess from 1 to 100:
+48
+Oops!Your Guess is higher.Try Again.
+enter your guess from 1 to 100:
+30
+Oops!Your Guess is lower.Try Again.
+enter your guess from 1 to 100:
+35
+Oops!Your Guess is lower.Try Again.
+enter your guess from 1 to 100:
+40
+Oops!Your Guess is higher.Try Again.
+enter your guess from 1 to 100:
+38
+Correct! You Won!
+!!!You took 7 tries to guess the number!!!
